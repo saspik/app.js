@@ -1,6 +1,6 @@
 function getNumber (num){
 
-    for(let i=1; i<a+1; i++){
+    for(let i=1; i<num+1; i++){
         if (i==5 )
         console.log('пять')
         else if (i==13)
@@ -16,4 +16,4 @@ function getNumber (num){
     }
 
 }
-getNumber(a=100)
+getNumber(100)
